@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820774877337",
+    "project_id": "chat-app-da079",
+    "storage_bucket": "chat-app-da079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820774877337:android:c3c88d1553b7ab6e68a008",
+        "android_client_info": {
+          "package_name": "co.sadiq.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8QKUiJ-kPcDqVkSBz9rqjAeGMHuO3qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
